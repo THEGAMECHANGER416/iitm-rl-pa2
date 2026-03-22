@@ -1,0 +1,7 @@
+.venv/*
+.venv
+__pycache__/
+sweep_configs/
+plots/
+wandb/
+best_params.json
